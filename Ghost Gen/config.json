@@ -1,0 +1,19 @@
+{
+    "prefix": "g.",
+    "genChannel": "1179438840981762048",
+    "pgenChannel": "1179448145952903259",  
+    "servername" : "Ghost OwO 💖",
+    "token": "MTE4MDM4NDAyOTI5NjU3ODYxMA.GKlo_L.hzHRI17RlX-uTsbVE8QHoUVBzTRvKjn324Woas",
+    "genCooldown": "120000",
+    "genCooldownsec": "0",
+    "color": {
+        "green": "0x57F287",
+        "yellow": "0xFEE75C",
+        "red": "0xED4245",
+        "default": "0x5865F2"
+    },
+    "command": {
+        "notfound_message": true,
+        "error_message": true
+    }
+}
